@@ -1,0 +1,5 @@
+What is cognitive computing?
+Cognitive computing refers to the use of reasoning, language processing, machine learning, and human capabilities that help regular computing better solve problems and analyze data. By learning patterns and behaviors and becoming more intelligent, a computer system can tackle complex decision-making processes. 
+
+Features of cognitive computing
+A cognitive computing technology platform uses machine learning and pattern recognition to adapt and make sense of information, even unstructured information like natural speech. To achieve those capabilities, cognitive computing typically provides the following attributes, which were developed by the Cognitive Computing Consortium in 2014
